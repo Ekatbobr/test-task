@@ -1,2 +1,2 @@
 # test-task
-Тестовое задание принадлежит IT-компании «Blogman» https://blogman--team.vsite.biz, состоящее из 8 задач.
+Тестовое задание выполняла от IT-компании «Blogman» https://blogman--team.vsite.biz.
